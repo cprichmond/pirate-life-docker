@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t my-ghost-blog:0.1.0 .
+docker build -t pirate-life-blog:0.1.0 .
