@@ -1,0 +1,1 @@
+docker exec -i -t pirate-life-blog_DEVELOPMENT /bin/bash
